@@ -1,0 +1,22 @@
+{
+  "markdown": {
+    "pretty_name": "markdown",
+    "path": "templates/markdown/markdown.md",
+    "parameters": [
+      {
+        "name": "Jealousy",
+        "default": "no"
+      }
+    ]
+  },
+  "python-readme": {
+    "pretty_name": "python-readme",
+    "path": "templates/markdown/python-readme.md",
+    "parameters": [
+      {
+        "name": "Jealousy",
+        "default": "no"
+      }
+    ]
+  }
+}

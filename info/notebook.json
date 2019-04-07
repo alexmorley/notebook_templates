@@ -1,0 +1,22 @@
+{
+  "linear_regression": {
+    "pretty_name": "linear_regression",
+    "path": "templates/notebook/linear_regression.ipynb",
+    "parameters": [
+      {
+        "name": "Jealousy",
+        "default": "no"
+      }
+    ]
+  },
+  "parts": {
+    "pretty_name": "parts",
+    "path": "templates/notebook/parts.ipynb",
+    "parameters": [
+      {
+        "name": "Jealousy",
+        "default": "no"
+      }
+    ]
+  }
+}
